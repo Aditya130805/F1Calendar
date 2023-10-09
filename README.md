@@ -5,7 +5,7 @@ The current F1 calendar shuttles between countries all around the globe without 
 Made using Python, the map shown below depicts the significant difference. 
 
 With the thin, red line representing the real calendar and the thick, green line representing the ideal one, numerically stated as determnined accurately by this program:
-#### F1 is travelling an unnecessary additional *__57.6%__* (~83,000 miles as opposed to the ideal 35,000) in 2023.
+### F1 is travelling an unnecessary additional *__57.6%__* (~83,000 miles as opposed to the ideal 35,000) in 2023.
 
 <br>
 
